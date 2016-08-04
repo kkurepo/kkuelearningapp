@@ -8,7 +8,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl" : "https://e-learning.kku.ac.th/"
+    "siteurl" : "https://e-learning.kku.ac.th/",
     "gcmpn": "860098238828",
     "customurlscheme": "moodlemobile"
 }
